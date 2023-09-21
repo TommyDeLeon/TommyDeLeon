@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TommyDeLeon
+- 👀 I’m interested on how computer language works.
+- 🌱 I’m currently learning HTML and CSS, then will proceed to JavaScript.
+- 💞️ I would love to have a mentor after I am done working on my fundamentals.
