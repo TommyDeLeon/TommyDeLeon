@@ -24,7 +24,7 @@ Feel free to explore my repositories where I apply these skills to various proje
 
 Let's connect and collaborate! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/tommy-de-leon-b22bb1276/) 🌐
+- [LinkedIn](https://www.linkedin.com/in/tommydeleon/) 🌐
 - Discord: toms#8972 💬
 - Gmail: tommydeleon104@gmail.com 📧
 
