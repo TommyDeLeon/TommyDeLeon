@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TommyDeLeon.personal-resources)
-
 # 👋 Hello, I am Tommy De Leon!
 
 I hail from the vibrant town of Taytay in the beautiful province of Rizal, Philippines. 🌏
