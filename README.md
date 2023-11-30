@@ -28,7 +28,7 @@ Feel free to explore my repositories where I apply these skills to various proje
 Let's connect and collaborate! You can find me on:
 
 - <a href="https://www.linkedin.com/in/tommydeleon/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></a> 🌐
-- <a href="discord.com/users/701646897869357067" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 💬
+- <a href="discord.com/users/701646897869357067" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> or toms#8972💬
 - Gmail: tommydeleon104@gmail.com 📧
 
 Looking forward to engaging with the tech community and building amazing things together! 👨‍💻✨
