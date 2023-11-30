@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TommyDeLeon.personal-resources&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TommyDeLeon.personal-resources)
 
 # 👋 Hello, I am Tommy De Leon!
 
